@@ -1,5 +1,12 @@
 # Created by .ignore support plugin (hsz.mobi)
-### JetBrains template
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
@@ -52,42 +59,17 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
-### Example user template template
-### Example user template
+### Linux template
+*~
 
-# IntelliJ project files
-.idea
-*.iml
-out
-gen
-### JetBrains template
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
-# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
 
-# User-specific stuff
+# KDE directory preferences
+.directory
 
-# Sensitive or high-churn files
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
 
-# Gradle
-
-# CMake
-
-# Mongo Explorer plugin
-
-# File-based project format
-
-# IntelliJ
-
-# mpeltonen/sbt-idea plugin
-
-# JIRA plugin
-
-# Cursive Clojure plugin
-
-# Crashlytics plugin (for Android Studio and IntelliJ)
-
-# Editor-based Rest Client
-### Example user template template
-### Example user template
-
-# IntelliJ project files
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
