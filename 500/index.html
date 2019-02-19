@@ -1,10 +1,66 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es" class="fontawesome-i2svg-pending">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+    <script async src="/js/app.js"></script>
+    <link href="/css/app.css" rel="stylesheet">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#343a40">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#343a40">
+    <meta name="msapplication-navbutton-color" content="#343a40">
+    <title>LIVI - Error interno
+    </title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-90621662-2"></script>
+    <script async>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','UA-90621662-2');</script>
+    <link href="/fonts/all.css" rel="stylesheet">
 </head>
-<body>
-blabla
+<body class="fixed-nav sticky-footer " id="page-top">
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow" id="mainNav">
+    <a class="navbar-brand" href="/">
+        <img src="/images/Lapicin.svg" width="25" height="25" style="margin-top: -8px;" alt="Logo de LIVI">
+        LIVI
+    </a>
+</nav>
+<div class="content-wrapper" style="margin-left: 0;">
+    <div class="container-fluid">
+        <h1 align="center" class="display-4">
+            <i class="fal fa-exclamation-triangle"></i>
+            500 - Error interno
+        </h1>
+        <hr>
+        <br>
+        <div class="text-center">
+            <h4>
+                Lo sentimos, pero ha ocurrido un error interno.
+                <i class="fal fa-frown"></i>
+            </h4>
+            <p>Por favor, comunícate con nosotros lo antes posible desde la página de <a href="/">Inicio</a> o desde la de <a
+                    href="/FAQ">Preguntas y respuestas</a> indicando que tipo de perfil estabas utilizando( preceptor, profesor, etc) y que acción querías realizar más cualquier otra información que te parezca relevante.</p>
+            <br>
+            <p>Nos pondremos en contacto lo antes posible para solucionar tu problema</p>
+            <br>
+            <a href="/home">
+                <i class="fal fa-arrow-left"></i>
+                Volver al inicio
+            </a>
+            <br>
+        </div>
+    </div>
+</div>
+<script>
+    $(function(){
+        let anioActual = (new Date()).getFullYear();
+        $('#fecha').html('&copy; 2017-'+anioActual);
+    })
+</script>
+<footer class="sticky-footer" style="width: 100%;">
+    <div class="container text-center">
+        <small class="m-0" id="fecha">
+            <a href="/">LIVI</a>
+        </small>
+    </div>
+</footer>
 </body>
 </html>

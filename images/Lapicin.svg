@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg2" xmlns="http://www.w3.org/2000/svg" height="82.653786mm"
+     width="65.934959mm" version="1.1" viewBox="0 0 65.934959 82.653786">
+    <metadata id="metadata4">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="g3390" transform="translate(-87.651413,-92.651489)">
+        <path id="path6" style="paint-order:stroke fill markers" fill="#0198fd"
+              d="m103.98398 167.10181 15.875 7.93399 0.52916 0.22904h0.26459l0.52916-0.22904 15.875-7.93399"/>
+        <path id="path8" fill="none" d="m113.82317 172.06056h13.44414"/>
+        <path id="path10" d="m103.98398 166.96745h33.07291" stroke="#000" stroke-width=".26458335px" fill="none"/>
+        <g stroke-width="0">
+            <rect id="rect12" style="paint-order:stroke fill markers" rx="0" height="10.149955" width="33.072929"
+                  y="119.9248" x="103.98124" fill="#000089"/>
+            <g id="g14" fill="#2ad4ff">
+                <path id="path16" style="paint-order:stroke fill markers"
+                      d="m117.26741 173.72518-3.10886-1.5733 6.41615 0.001 6.41614 0.001-3.15148 1.57923c-1.73331 0.86859-3.22159 1.57605-3.30729 1.57215-0.0857-0.004-1.55479-0.71509-3.26466-1.5804z"/>
+                <path id="path18" style="paint-order:stroke fill markers"
+                      d="m120.43369 175.2783c-0.25911-0.0907-1.00712-0.45445-3.514-1.70862l-2.91869-1.4602 6.51123-0.00079c6.50955-0.0008 6.51122-0.0008 6.47819 0.0321-0.0182 0.0182-0.98742 0.51028-2.15388 1.09357-3.08138 1.54085-4.17966 2.06736-4.30364 2.0631-0.0273-0.001-0.0719-0.01-0.0992-0.0191z"/>
+                <path id="path20" style="paint-order:stroke fill markers"
+                      d="m120.41715 175.27548c-0.21783-0.073-0.89694-0.40414-3.50573-1.7096l-2.91042-1.4564 6.51188-0.00079c6.32629-0.0008 6.51103-0.00005 6.48229 0.0296-0.0348 0.0358-2.53467 1.29652-4.03141 2.03307-1.73301 0.85282-2.29077 1.11199-2.41314 1.12132-0.037 0.003-0.0971-0.005-0.13347-0.017z"/>
+            </g>
+            <path id="path22" style="paint-order:stroke fill markers" fill="#f60"
+                  d="m120.30966 175.23544c-0.33592-0.13896-0.64487-0.29073-3.43131-1.68559l-2.87735-1.44037 6.51491-0.00079c6.46224-0.0008 6.51464-0.00053 6.48229 0.0314-0.0375 0.0372-3.2144 1.63577-4.45612 2.24233-1.49598 0.73077-1.87032 0.90144-2.00051 0.91206-0.0585 0.005-0.10897-0.008-0.23191-0.0589z"/>
+        </g>
+        <g id="g24" stroke-width=".26458335">
+            <path id="path26" fill="#ff7f2a" d="m123.82773 148.57484v-18.52696h6.61186v37.05393h-6.61186z"/>
+            <path id="path28" fill-opacity=".90163933" fill="#ff7f2a"
+                  d="m110.59856 148.57484v-18.52696h6.55993v37.05393h-6.55993z"/>
+            <path id="path30" fill-opacity=".90163933" fill="#f60"
+                  d="m103.99074 148.57484v-18.52696h33.06615v37.05393h-33.06615z"/>
+        </g>
+        <g id="g32" stroke="#000">
+            <ellipse id="ellipse34" rx="10.016367" ry="7.8848701" cy="141.34831" cx="109.08666" stroke-width=".66500002"
+                     fill="#0198fd"/>
+            <ellipse id="ellipse36" stroke-linejoin="round" style="paint-order:stroke fill markers"
+                     stroke-linecap="round" rx="1.3229166" ry="2.0442257" cy="141.71822" cx="108.94489"
+                     stroke-width=".86500001"/>
+            <ellipse id="ellipse38" rx="10.016367" ry="7.8848701" cy="141.31427" cx="131.60933" stroke-width=".66500002"
+                     fill="#0098fd"/>
+            <ellipse id="ellipse40" stroke-linejoin="round" style="paint-order:stroke fill markers"
+                     stroke-linecap="round" rx="1.3229166" ry="2.0442257" cy="141.85451" cx="131.50064"
+                     stroke-width=".86500001"/>
+            <rect id="rect42" stroke-linejoin="round" style="paint-order:stroke fill markers" transform="scale(1,-1)"
+                  height=".000010479299" width="2.1166713" stroke-linecap="round" y="-141.44569" x="119.32978"
+                  stroke-width=".86500001"/>
+        </g>
+        <path id="path44" stroke-linejoin="round"
+              d="m113.05541 157.46764s4.5499 3.09461 7.37053 3.11694c2.93101 0.0233 7.74851-3.11694 7.74851-3.11694"
+              stroke="#000" stroke-linecap="round" stroke-width="1.60000002" fill="none"/>
+        <path id="path46" stroke-width=".26458332" fill="#00449f"
+              d="m118.53334 128.725c-0.42547-0.0844-1.06505-0.27515-1.42127-0.42399-0.35623-0.14884-6.85421-3.68883-14.43996-7.86665-14.874067-8.19181-15.020697-8.28672-15.020697-9.72166 0-0.64732 0.11656-0.86592 0.8032-1.50636 1.18066-1.10124 28.151667-15.926454 29.692647-16.321244 0.8245-0.21122 1.70792-0.27198 3.07229-0.2113 1.70917 0.076 2.06481 0.157 3.30849 0.75336 3.26657 1.56636 27.88599 15.311944 28.36755 15.838244 0.95572 1.04453 0.91851 2.14862-0.10399 3.08542-0.33041 0.30272-6.89406 4.02364-14.58587 8.26872-15.0305 8.29526-15.09405 8.32497-17.7077 8.27953-0.65511-0.0114-1.53922-0.0897-1.96469-0.17407z"/>
+        <g id="g48" fill="#000080">
+            <ellipse id="ellipse50" style="paint-order:stroke fill markers" rx="6.614583" ry="3.96875" cy="110.8122"
+                     cx="120.47758" stroke-width="0"/>
+            <g id="g52" stroke-linejoin="round" stroke="#000080">
+                <rect id="rect54" style="paint-order:stroke fill markers"
+                      transform="matrix(.96431732 .26474915 -.96681273 .2554861 0 0)" height="3.9439898"
+                      width="24.237177" y="147.82823" x="275.54086" stroke-width=".70546329"/>
+                <ellipse id="ellipse56" style="paint-order:stroke fill markers" rx="2.8470242" ry="2.9405689"
+                         cy="119.34705" cx="145.58342" stroke-width=".49999997"/>
+                <path id="path58" style="paint-order:stroke fill markers" stroke-width=".5"
+                      d="m143.13959 120.52291h4.66799c0.95276 0 1.71979 0.74545 1.71979 1.67142v6.44693c0 0.92598-0.91043 1.71702-1.71979 1.67143-1.25132-0.0705-2.33399-2.8653-2.33399-2.8653s-1.08268 2.79484-2.334 2.8653c-0.80936 0.0456-1.71979-0.74545-1.71979-1.67143v-6.44693c0-0.92597 0.76703-1.67142 1.71979-1.67142z"/>
+            </g>
+        </g>
+    </g>
+</svg>
